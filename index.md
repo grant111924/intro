@@ -44,7 +44,7 @@ title: "VSCode Reveal intro"
 ---
 
 ## Darts
-<div style=" display:flex; gap:10% flex-wrap: wrap;">
+<div style=" display:flex; gap:10%; flex-wrap: wrap;">
     <img width="45%" src="./img/dart1.png">
     <img width="45%" src="./img/dart2.jpg">
 <div>
