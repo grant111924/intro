@@ -44,31 +44,31 @@ title: "VSCode Reveal intro"
 
 ## Darts
 <div style=" display:flex; gap:10%; flex-wrap: wrap;">
-    <img width="45%" data-src="./img/dart1.png">
-    <img width="45%" data-src="./img/dart2.jpg">
+    <img width="45%" src="./img/dart1.png">
+    <img width="45%" src="./img/dart2.jpg">
 <div>
 
 ---
 
 ## Darts
 <video width="30%" controls>
-        <source data-src="./video/dart.mp4" type="video/mp4">
+        <source src="./video/dart.mp4" type="video/mp4">
 </video>
 
 ---
 
 ## Tasting Food
 <div style=" display:flex; gap:5% ;flex-wrap: wrap;">
-    <img width="15%" data-src="./img/food1.jpg">
-    <img width="15%" data-src="./img/food2.jpg">
-    <img width="15%" data-src="./img/food3.jpg">
-    <img width="15%" data-src="./img/food4.jpg">
-    <img width="15%" data-src="./img/food5.jpg">
-    <img width="15%" data-src="./img/food6.jpg">
-    <img width="15%" data-src="./img/food7.jpg">
-    <img width="15%" data-src="./img/food8.jpg">
-    <img width="15%" data-src="./img/food9.jpg">
-    <img width="15%" data-src="./img/food10.jpg">
+    <img width="15%" src="./img/food1.jpg">
+    <img width="15%" src="./img/food2.jpg">
+    <img width="15%" src="./img/food3.jpg">
+    <img width="15%" src="./img/food4.jpg">
+    <img width="15%" src="./img/food5.jpg">
+    <img width="15%" src="./img/food6.jpg">
+    <img width="15%" src="./img/food7.jpg">
+    <img width="15%" src="./img/food8.jpg">
+    <img width="15%" src="./img/food9.jpg">
+    <img width="15%" src="./img/food10.jpg">
 <div>
 
 
@@ -78,16 +78,10 @@ title: "VSCode Reveal intro"
 ## Cooking
 
 <div style=" display:flex; gap:10%">
-    <img width="25%" data-src="./img/cook1.png">
-    <img width="25%" data-src="./img/cook2.png">
-    <img width="25%" data-src="./img/cook3.png">
+    <img width="25%" src="./img/cook1.png">
+    <img width="25%" src="./img/cook2.png">
+    <img width="25%" src="./img/cook3.png">
    
 <div>
-
----
-
-
-
-
 
 ---
