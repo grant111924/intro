@@ -2,7 +2,7 @@
 theme : "solarized"
 transition: "slide"
 highlightTheme: "monokai"
-logoImg: './img/logo.png'
+logoImg: './fig/logo.png'
 slideNumber: true
 title: "VSCode Reveal intro"
 ---
@@ -21,9 +21,9 @@ title: "VSCode Reveal intro"
 
 ###  Experience
 
--  Bachelor'degree - CSMU 中山醫大醫學資訊學系
+-  Bachelor degree - CSMU 中山醫大醫學資訊學系
 
--  Master'degree -  NTUST 台科大資訊工程所
+-  Master degree -  NTUST 台科大資訊工程所
 
 -  Startup - Ignatius 依納爵科技管理顧問
 
@@ -44,8 +44,8 @@ title: "VSCode Reveal intro"
 
 ## Darts
 <div style=" display:flex; gap:10%; flex-wrap: wrap;">
-    <img width="45%" src="./img/dart1.png">
-    <img width="45%" src="./img/dart2.jpg">
+    <img width="400px" src="./fig/dart1.png">
+    <img width="400px" src="./fig/dart2.jpg">
 <div>
 
 ---
@@ -59,16 +59,16 @@ title: "VSCode Reveal intro"
 
 ## Tasting Food
 <div style=" display:flex; gap:5% ;flex-wrap: wrap;">
-    <img width="15%" src="./img/food1.jpg">
-    <img width="15%" src="./img/food2.jpg">
-    <img width="15%" src="./img/food3.jpg">
-    <img width="15%" src="./img/food4.jpg">
-    <img width="15%" src="./img/food5.jpg">
-    <img width="15%" src="./img/food6.jpg">
-    <img width="15%" src="./img/food7.jpg">
-    <img width="15%" src="./img/food8.jpg">
-    <img width="15%" src="./img/food9.jpg">
-    <img width="15%" src="./img/food10.jpg">
+    <img width="15%" src="./fig/food1.jpg">
+    <img width="15%" src="./fig/food2.jpg">
+    <img width="15%" src="./fig/food3.jpg">
+    <img width="15%" src="./fig/food4.jpg">
+    <img width="15%" src="./fig/food5.jpg">
+    <img width="15%" src="./fig/food6.jpg">
+    <img width="15%" src="./fig/food7.jpg">
+    <img width="15%" src="./fig/food8.jpg">
+    <img width="15%" src="./fig/food9.jpg">
+    <img width="15%" src="./fig/food10.jpg">
 <div>
 
 
@@ -78,9 +78,9 @@ title: "VSCode Reveal intro"
 ## Cooking
 
 <div style=" display:flex; gap:10%">
-    <img width="25%" src="./img/cook1.png">
-    <img width="25%" src="./img/cook2.png">
-    <img width="25%" src="./img/cook3.png">
+    <img width="25%" src="./fig/cook1.png">
+    <img width="25%" src="./fig/cook2.png">
+    <img width="25%" src="./fig/cook3.png">
    
 <div>
 
