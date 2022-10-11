@@ -1,10 +1,9 @@
 ---
-theme : "simple"
+theme : "solarized"
 transition: "slide"
 highlightTheme: "monokai"
-center: 'false'
-logoImg: 'img/logo.png'
-slideNumber: false
+logoImg: './img/logo.png'
+slideNumber: true
 title: "VSCode Reveal intro"
 ---
 
