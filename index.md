@@ -52,14 +52,14 @@ title: "VSCode Reveal intro"
 
 ## Darts
 <video width="30%" controls>
-        <source src="./video/dart.mp4" type="video/mp4">
+        <!-- <source src="./video/dart.mp4" type="video/mp4"> -->
 </video>
 
 ---
 
 ## Tasting Food
 <div style=" display:flex; gap:5% ;flex-wrap: wrap;">
-    <img width="15%" src="./fig/food1.jpg">
+    <!-- <img width="15%" src="./fig/food1.jpg">
     <img width="15%" src="./fig/food2.jpg">
     <img width="15%" src="./fig/food3.jpg">
     <img width="15%" src="./fig/food4.jpg">
@@ -68,7 +68,7 @@ title: "VSCode Reveal intro"
     <img width="15%" src="./fig/food7.jpg">
     <img width="15%" src="./fig/food8.jpg">
     <img width="15%" src="./fig/food9.jpg">
-    <img width="15%" src="./fig/food10.jpg">
+    <img width="15%" src="./fig/food10.jpg"> -->
 <div>
 
 
@@ -78,10 +78,9 @@ title: "VSCode Reveal intro"
 ## Cooking
 
 <div style=" display:flex; gap:10%">
-    <img width="25%" src="./fig/cook1.png">
+    <!-- <img width="25%" src="./fig/cook1.png">
     <img width="25%" src="./fig/cook2.png">
-    <img width="25%" src="./fig/cook3.png">
-   
+    <img width="25%" src="./fig/cook3.png"> -->
 <div>
 
 ---
